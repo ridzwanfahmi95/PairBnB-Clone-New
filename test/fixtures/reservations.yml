@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  guest_id: 1
+  listing_id: 1
+  total_price: 1
+  timeframes: 1
+
+two:
+  guest_id: 1
+  listing_id: 1
+  total_price: 1
+  timeframes: 1
