@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
+# User authentication
+#we choose clearace!
+gem 'clearance'
+
+#protect privacy
+gem 'figaro'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
